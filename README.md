@@ -1,5 +1,5 @@
 # MacbethGame
-Tells the story of the Macbeth play by Shakespeare, where you play as Macbeth himself. Made in an online Python Interpreter.
+Tells the story of the Macbeth play by Shakespeare, where you play as Macbeth himself. Made in an online Python Interpreter with module 'simpegui'.
 
 Run the game here:
 http://www.codeskulptor.org/#user48_QKedkgtSIr_11.py
